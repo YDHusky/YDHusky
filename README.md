@@ -43,7 +43,6 @@
 
 <div align="center">
     <a href="https://husky.yudream.online"><img src="https://img.shields.io/badge/-Website-4285F4?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-    <a href="tencent://message/?uin=3088506834"><img src="https://img.shields.io/badge/-QQ-EB1923?style=flat-square&logo=tencentqq&logoColor=white" /></a>
 </div>
 
 ---
