@@ -17,16 +17,19 @@
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
     <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 </div>
+<div style="height:10px;" align="center">
+</div>
+<div align="center">
+    <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YDHusky&layout=compact&theme=radical" />
+</div>
 
 ## 📊 GitHub 统计
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YDHusky&show_icons=true&theme=radical" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YDHusky&theme=radical" />
+    <img width="300px" src="https://github-readme-stats.vercel.app/api?username=YDHusky&show_icons=true&theme=radical" />
 </div>
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YDHusky&layout=compact&theme=radical" />
+<div align="center">    
+<img width="300px" src="https://github-readme-streak-stats.herokuapp.com/?user=YDHusky&theme=radical" />
 </div>
 
 ## 🏆 最近项目
