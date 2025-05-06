@@ -28,9 +28,6 @@
 <div align="center">
     <img width="500px" src="https://github-readme-stats.vercel.app/api?username=YDHusky&show_icons=true&theme=radical" />
 </div>
-<div align="center">    
-<img width="500px" src="https://github-readme-streak-stats.herokuapp.com/?user=YDHusky&theme=radical" />
-</div>
 
 ## 🏆 最近项目
 
