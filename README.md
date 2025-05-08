@@ -31,8 +31,11 @@
 
 ## 🏆 最近项目
 
+### 脚本
+- [ITest考试脚本](https://github.com/YDHusky/itest) - ITest考试脚本，支持听力
+- [易班发帖脚本](https://github.com/YDHusky/SYiBanPost) - 易班自动发帖脚本(包含自动写文字)
+### 其他
 - [西科通(现已改名妙计西科π)](https://github.com/YDHusky/SWUST-Link) - 致力于打造西南科技大学一站式教务平台 
-- [易班发帖脚本](https://github.com/YDHusky/SYiBanPost) - 易班发帖脚本
 - [Flutter Intl Manager](https://github.com/YDHusky/Flutter-Intl-Manager) - 一个Android Studio插件，用于管理Flutter项目Intl多语言
 
 
